@@ -1,0 +1,99 @@
+
+
+@media (max-width: 575px){
+    .navbar{
+    	flex-direction: column;
+    }
+
+    .navbar_start{
+    }
+
+.logo img {
+    max-width: 150px;
+}
+
+nav ul li a {
+
+    font-size: 20px;
+
+}    
+    .navbar_canter {
+    padding-top: 10px;
+}
+
+.heroBanner {
+    height: 225px;
+}
+
+.container h1 {
+     font-size: 40px;
+
+}
+
+.container h4 {
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+
+.serviceContent {
+    padding: 15px;
+    flex-direction: column;
+}
+
+.serviceDetails h3 {
+    font-size: 19px;
+    line-height: 19px;
+
+}
+.serviceImage {
+    max-width: 350px;
+    margin-top: 10px;
+}
+.UiServiceSection .serviceDetails {
+    padding-left: 70px;
+    padding-top: 25px;
+}
+
+.UiServiceSection h3 {
+    font-size: 22px;
+    line-height: 22px;
+}
+
+.chooseUsSection h3 {
+    margin: 50px 0px;
+    font-size: 30px;
+
+}
+
+.ChooseUsDetails {
+    height: 250px;
+}
+
+.successSection {
+    margin: 25px 0;
+}
+
+.successContent {
+    gap: 10px;
+}
+
+.successCardGray {
+    flex-basis: 45%;
+    padding: 5px 5px;
+    border-radius: 10px;
+}
+
+.successCardBlue {
+    flex-basis: 45%;
+    padding: 5px 5px;
+    border-radius: 10px;
+
+}
+
+}
+
+
+
+	
+
